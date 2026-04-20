@@ -1,4 +1,4 @@
 .venv
 data/Satellite
 .idea
-.parquet
+*.parquet
