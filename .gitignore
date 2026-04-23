@@ -1,5 +1,5 @@
 .venv
-data/Satellite
+data/satellite
 .idea
 *.parquet
 results

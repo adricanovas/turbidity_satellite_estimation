@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD1"},
+      "geometry": {"type": "Point", "coordinates": [-0.784483, 37.8118]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD2"},
+      "geometry": {"type": "Point", "coordinates": [-0.8078, 37.760617]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD3"},
+      "geometry": {"type": "Point", "coordinates": [-0.78355, 37.761783]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD4"},
+      "geometry": {"type": "Point", "coordinates": [-0.749617, 37.748233]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD6"},
+      "geometry": {"type": "Point", "coordinates": [-0.778383, 37.710417]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD7"},
+      "geometry": {"type": "Point", "coordinates": [-0.839783, 37.718]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD8"},
+      "geometry": {"type": "Point", "coordinates": [-0.8104, 37.694517]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD9"},
+      "geometry": {"type": "Point", "coordinates": [-0.809683, 37.666817]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD10"},
+      "geometry": {"type": "Point", "coordinates": [-0.781967, 37.659833]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD11"},
+      "geometry": {"type": "Point", "coordinates": [-0.728883, 37.6518]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"ControlPointCode": "CTD12"},
+      "geometry": {"type": "Point", "coordinates": [-0.783783, 37.68735]}
+    }
+  ]
+}
