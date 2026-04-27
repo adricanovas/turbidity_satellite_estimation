@@ -3,3 +3,4 @@ data/satellite
 .idea
 *.parquet
 results
+code/test.ipynb
