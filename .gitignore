@@ -2,5 +2,8 @@
 data/satellite
 .idea
 *.parquet
-results
+results/
 code/test.ipynb
+data/patches/
+data/processed/
+images/
