@@ -2,8 +2,9 @@
 data/satellite
 .idea
 *.parquet
-results/
+results/models
 code/test.ipynb
 data/patches/
 data/processed/
 images/
+catboost_info

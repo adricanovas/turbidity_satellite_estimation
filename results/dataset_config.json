@@ -1,0 +1,18 @@
+{
+  "base": {
+    "file": "dataset_base.csv",
+    "clip_at_zero": true
+  },
+  "log1p": {
+    "file": "dataset_log1p.csv",
+    "clip_at_zero": true
+  },
+  "trimmed": {
+    "file": "dataset_trimmed_1_99.csv",
+    "clip_at_zero": true
+  },
+  "yeojohnson": {
+    "file": "dataset_yeojohnson.csv",
+    "clip_at_zero": false
+  }
+}
