@@ -1,10 +1,10 @@
 {
   "best_dataset": "log1p",
-  "best_patch_px": 64,
-  "best_model": "CatBoost",
-  "diameter_m": 192,
-  "test_mae": 0.2532,
-  "test_r2": -0.0916,
-  "model_file": "log1p__64px__CatBoost.pkl",
-  "feat_cols_file": "log1p__64px__CatBoost__feat_cols.pkl"
+  "best_patch_px": 256,
+  "best_model": "GBR",
+  "diameter_m": 768,
+  "test_mae": 0.2376,
+  "test_r2": 0.2259,
+  "model_file": "log1p__256px__GBR.pkl",
+  "feat_cols_file": "log1p__256px__GBR__feat_cols.pkl"
 }
